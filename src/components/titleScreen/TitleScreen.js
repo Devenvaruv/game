@@ -11,6 +11,7 @@ class TitleScreen extends React.Component {
                 <p>{` new photos to uploads`}</p>
                 <p>{` new photos to`}</p>
                 <p>{` new photos`}</p>
+                <p>{` new photos`}</p>
                 <img src="https://toppng.com/uploads/preview/fire-logo-png-svg-free-download-fire-logo-11563553513c3wo0p7dt1.png" alt="fire logo" />
             </div>
         )
