@@ -9,7 +9,7 @@ class TitleScreen extends React.Component {
                 <p>oashfoiafioagsoifhaoshfoahs</p>
                 <p>{` new photos to uploads`}</p>
                 <p>{` new photos to uploads`}</p>
-                <p>{` photo `}</p>
+                <p>{` pho `}</p>
                 
                 <img src="https://toppng.com/uploads/preview/fire-logo-png-svg-free-download-fire-logo-11563553513c3wo0p7dt1.png" alt="fire logo" />
             </div>
