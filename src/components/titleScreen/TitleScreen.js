@@ -5,8 +5,7 @@ class TitleScreen extends React.Component {
         return (
             <div>
                 <p>{`This will be a title screen which will greet people and then move forward to the game choice and selections`}</p>
-                <p>11563553513c3wo0p7dt1</p>
-                <p>oashfoiafioagsoifhaoshfoahs</p>
+                
                 <p>{` new photos to uploads`}</p>
                 
                 
